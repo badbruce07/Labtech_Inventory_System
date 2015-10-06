@@ -1,0 +1,15 @@
+{
+  "name": "Labtech_Inventory_System",
+  "version": "0.1",
+  "authors": [
+    "Bruce Hoo Fung <burususan@gmail.com>"
+  ],
+  "description": "This system will be used to make a track of the items used in the lab.",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "http://cslabinventory.com",
+  "private": true
+}
